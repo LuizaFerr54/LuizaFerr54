@@ -1,6 +1,6 @@
-- 👋 olá, chamo me Luiza
-- 👀 Os temas que procuro são relacionados a tecnologia e arte
-- 🌱 No momento estou procurando temas sobre linguagem de programação e suporte administrativo
+- 👋 Olá,  me chamo Luiza.
+- 👀 Os temas que procuro são relacionados a tecnologia de suporte
+- 🌱 No momento estou procurando temas sobre suporte administrativo, ferramentas que facilitam o ia a dia adm.
 - 🐸 Fato: Eu absolutamente amo sapos
 
 <!---

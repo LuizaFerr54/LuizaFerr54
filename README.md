@@ -1,6 +1,5 @@
 - 👋 Olá,  me chamo Luiza.
-- 👀 Os temas que procuro são relacionados a tecnologia de suporte
-- 🌱 No momento estou procurando temas sobre suporte administrativo, ferramentas que facilitam o ia a dia adm.
+
 - 🐸 Fato: Eu absolutamente amo sapos
 
 <!---
